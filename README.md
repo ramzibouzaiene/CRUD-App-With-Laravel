@@ -4,26 +4,26 @@
  
  #Laravel 8 CRUD Installation:
  
- Database Configuration
- Migration Setup
- Laravel CRUD Operation Routes
- Create Controllers for CRUD
- Setup User Model
- Add Blade Files for CRUD
+ Database Configuration |
+ Migration Setup |
+ Laravel CRUD Operation Routes |
+ Create Controllers for CRUD |
+ Setup User Model |
+ Add Blade Files for CRUD |
  
  #Auth Login and Registration:
  
- Create Laravel App
- Setup Database Credentials
- Setup Model
- Setup Registration Controller
- Setup Registration Request
- Setup Login Controller
- Setup Login Request
- Setup Logout Controller
- Setup Home Controller
- Setup Routes
- Setup Views
+ Create Laravel App |
+ Setup Database Credentials |
+ Setup Model |
+ Setup Registration Controller |
+ Setup Registration Request |
+ Setup Login Controller |
+ Setup Login Request |
+ Setup Logout Controller |
+ Setup Home Controller |
+ Setup Routes |
+ Setup Views |
  
  
  
